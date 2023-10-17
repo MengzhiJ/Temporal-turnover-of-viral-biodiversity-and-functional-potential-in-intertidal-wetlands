@@ -1,5 +1,5 @@
 # Temporal-turnover-of-viral-biodiversity-and-functional-potential-in-intertidal-wetlands
-##R code for manuscript: "Temporal turnover of viral biodiversity and functional potential in intertidal wetlands"
+##R code for Figs in manuscript: "Temporal turnover of viral biodiversity and functional potential in intertidal wetlands"
 
 Note: vOTUs, mOTUs, vPCs sequences information can be obtained from https://doi.org/10.5281/zenodo.7856466.
 
