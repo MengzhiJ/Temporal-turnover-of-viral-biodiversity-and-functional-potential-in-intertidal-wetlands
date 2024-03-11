@@ -1,10 +1,14 @@
 # Temporal-turnover-of-viral-biodiversity-and-functional-potential-in-intertidal-wetlands
-##R code for Figs in manuscript: "Temporal turnover of viral biodiversity and functional potential in intertidal wetlands"
 
-Note: vOTUs, MAGs, vPCs sequences information can be obtained from https://zenodo.org/records/10012334.
+##R code and some supplementary information for manuscript: "Temporal turnover of viral biodiversity and functional potential in intertidal wetlands"
+
+Note: 
+The vOTU, mOTU, and vPC abundance table can be obtained from fig. 2 file. The environmental factor information can be obtained from fig. 5 table.
+
+The vOTU, MAG, vPC sequences information can be downloaded from https://zenodo.org/records/10012334.
 
 For any other code/analysis inquiries, please open a github issue or contact me: jimengzhi@mail.sdu.edu.cn.
 
-If these codes are useful, please cite: Ji et al. Temporal turnover of viral biodiversity and functional potential in intertidal wetlands. 2023. (In Press).
+If these codes are useful, please cite: Ji et al. Temporal turnover of viral biodiversity and functional potential in intertidal wetlands. 2024. (In Press).
 
 Note: These R scripts were written and run for R v4.2.0. 
