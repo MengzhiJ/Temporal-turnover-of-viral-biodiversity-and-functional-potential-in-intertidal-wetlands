@@ -1,6 +1,6 @@
 # Temporal-turnover-of-viral-biodiversity-and-functional-potential-in-intertidal-wetlands
 
-## R code and some supplementary information for manuscript: "Temporal turnover of viral biodiversity and functional potential in intertidal wetlands"
+### R code and some supplementary information for manuscript: "Temporal turnover of viral biodiversity and functional potential in intertidal wetlands"
 
 Note: 
 The vOTU, mOTU, and vPC abundance table can be obtained from fig. 2 file. The environmental factor information can be obtained from fig. 5 table.
