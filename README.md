@@ -3,8 +3,6 @@
 #### R code and some supplementary information for manuscript: "Temporal turnover of viral biodiversity and functional potential in intertidal wetlands"
 
 Note: 
-The vOTU, mOTU, and vPC abundance table can be obtained from fig. 2 file. The environmental factor information can be obtained from fig. 5 table.
-
 The vOTU, MAG, vPC sequences information can be downloaded from https://zenodo.org/records/10012334.
 
 For any other code/analysis inquiries, please open a github issue or contact me: jimengzhi@mail.sdu.edu.cn.
